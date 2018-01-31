@@ -1,4 +1,4 @@
-# Psychic-game
+# psychic-game
 
 <h5>Overview</h5>
 
