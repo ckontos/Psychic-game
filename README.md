@@ -13,4 +13,4 @@
     </ul>
 </p>
 
-<a href="https://ckontos.github.io/Psychic-game/">View Here!</a>
+<a href="https://ckontos.github.io/psychic-game/">View Here!</a>
